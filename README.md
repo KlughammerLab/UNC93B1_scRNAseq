@@ -14,4 +14,3 @@ The codes contain the codes for the following analysis:
 •	INF_ploting
 
 •	INF_GSEA_and_plots
-![image](https://user-images.githubusercontent.com/44695385/227224306-1b6fd78b-f1ce-49ba-975a-430586e11ae9.png)
