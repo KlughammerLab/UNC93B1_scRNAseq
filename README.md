@@ -1,4 +1,4 @@
-# UNC93B1-variants-cause-TLR7-dependent-autoimmunity
+# UNC93B1_scRNAseq
 
 This repository contains jupyter notebooks containing the codes used for the analysis and to replicate the results of the single-cell data analysis from the manuscript:
 
