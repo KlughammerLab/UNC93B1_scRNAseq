@@ -5,6 +5,6 @@ Data pre-processing and detailed analysis jupyter notebooks and scripts for the 
 # contents
 metadata: The donor_id file of the main dataset and annotation table of the dataset used for the supplementary figures.
 
-notebooks and scripts: all jupyter notebooks and scripts with the detailed analysis of primary and supplementary datasets. 
+notebooks and scripts: all jupyter notebooks and scripts with a detailed analysis of primary and supplementary datasets. 
 
 The datasets used in these analyses can be found on "SCP" and "GEO" databases.
